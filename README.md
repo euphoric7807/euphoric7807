@@ -3,6 +3,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
 <h3 align="left">🚀Languages and Tools:</h3>
-<p align="left">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,anaconda,blender,cpp,cs,octave,php,py,rust,vscode,visualstudio)](https://skillicons.dev)
+
 
