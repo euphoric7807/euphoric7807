@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🍀🍄Hey%20Everyone!🍄🍀&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🍀🍄Hey%20Everyone!🍄🍀&fontSize=80)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
