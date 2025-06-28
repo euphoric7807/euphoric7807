@@ -10,7 +10,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
 ### 💻 GitHub 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical)![image](https://github.com/user-attachments/assets/79ec6b4a-0792-44a6-90b7-5efd3f6d47d6)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical)
 
 
