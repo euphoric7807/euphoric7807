@@ -19,4 +19,4 @@
 - 📚 currently reading poor things
 - 🔍 currently working on a book app
 - 🎥 last movie I watched: The Brutalist
-- 🇮🇪 Táim ag foghlaim na Gaeilge.
+- 🇮🇪☘️Táim ag foghlaim na Gaeilge.
