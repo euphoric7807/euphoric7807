@@ -7,9 +7,11 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,anaconda,blender,cpp,cs,octave,php,py,rust,vscode,visualstudio)
 
 ### 🎵 Music 
+---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
 ### 💻 GitHub 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical)
 
 
