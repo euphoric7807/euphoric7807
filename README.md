@@ -10,7 +10,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
 ### 💻 GitHub 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical"
     alt="GitHub Stats"
