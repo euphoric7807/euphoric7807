@@ -15,6 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical)
 
 ### 🧚‍♀️About me 
+---
 - 👩‍💻 currently studying computer science
 - 📚 currently reading poor things
 - 🔍 currently working on a book app
