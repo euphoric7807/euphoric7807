@@ -4,7 +4,7 @@
 
 ### 🚀 Languages and Tools
 ---
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,anaconda,blender,cpp,cs,octave,php,py,rust,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,blender,cpp,cs,octave,php,py,vscode,visualstudio)
 
 ### 🎵 Music 
 ---
