@@ -19,5 +19,5 @@
 - 👩‍💻 currently studying computer science
 - 📚 currently reading poor things
 - 🔍 currently working on a book app
-- 🎥 last movie I watched: The Brutalist
+- 🎥 last movie I watched: The Trench
 - ☘️ Táim ag foghlaim na Gaeilge.
