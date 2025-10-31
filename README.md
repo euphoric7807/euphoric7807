@@ -17,8 +17,8 @@
 ### 🧚‍♀️About me 
 ---
 - 👩‍💻 currently studying computer science
-- 📚 currently reading poor things
+- 📚 currently reading Dubliners by James Joyce
 - 🔍 currently working on a book app
-- 🎥 last film I watched: Peacock
-- 🎥 last TV series I watched: TSITP
+- 🎥 last film I watched: All of us Strangers
+- 🎥 last TV series I watched: Peaky Blinders
 - ☘️ Táim ag foghlaim na Gaeilge.
