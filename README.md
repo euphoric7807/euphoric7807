@@ -10,10 +10,6 @@
 ---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
 
-### 💻 GitHub 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoric7807&show_icons=true&theme=radical)
-
 ### 🧚‍♀️About me 
 ---
 - 👩‍💻 currently studying computer science
