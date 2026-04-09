@@ -12,9 +12,9 @@
 
 ### 🧚‍♀️About me 
 ---
-- 👩‍💻 currently studying computer science
-- 📚 currently reading Dubliners by James Joyce
+- 👩‍💻 BSc in Computer Science from the University of Vienna 
+- 📚 currently reading Terminal Boredom: Stories by Izumi Suzuki
 - 🔍 currently working on a book app
-- 🎥 last film I watched: All of us Strangers
-- 🎥 last TV series I watched: Peaky Blinders
+- 🎥 last film I watched: 
+- 🎥 last TV series I watched: 
 - ☘️ Táim ag foghlaim na Gaeilge.
