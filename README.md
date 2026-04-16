@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=200&section=header&text=☘️🍄Hey%20Everyone!🍄☘️&fontSize=50)
 
-![Pretty Picture](https://photos.google.com/photo/AF1QipMMpOA0DDecI88Tjhf-pRlsTQ6CQnfUmfkhjsee)
-
 ### 🚀 Languages and Tools
 ---
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,blender,cpp,cs,octave,php,py,vscode,visualstudio)
