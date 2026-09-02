@@ -6,7 +6,7 @@
 
 ### 🎵 Music 
 ---
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=malaklovesunicorns&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=malaklovesunicorns&width=500&radius=11&duration=1&album=1)
 
 ### 🧚‍♀️About me 
 ---
