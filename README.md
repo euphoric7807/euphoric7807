@@ -20,9 +20,11 @@
 
 ### 🗣️ Languages 
 ---
-<p align="left">
-  <img src="https://img.shields.io/badge/🇩🇪_German-Native-2ea44f?style=for-the-badge" alt="German" />
-  <img src="https://img.shields.io/badge/🇬🇧_English-Fluent_/_C1-0969da?style=for-the-badge" alt="English" />
-  <img src="https://img.shields.io/badge/🇮🇪_Irish-Learning_☘️-10b981?style=for-the-badge" alt="Irish" />
-  <img src="https://img.shields.io/badge/🇸🇪_Swedish-Learning_📓-f59e0b?style=for-the-badge" alt="Swedish" />
-</p>
+| Flag | Language | Level | Note |
+| :---: | :--- | :--- | :--- |
+| 🇩🇪 | **Egyptian Arabic** | Native | First language |
+| 🇪🇬 | **German** | C2 / Mastery | Fluent / Native proficiency |
+| 🇬🇧 | **English** | C1 / Fluent | Daily tech & studies |
+| 🇫🇷 | **French** | B1 / Intermediate | Conversational |
+| 🇮🇪 | **Irish** | Elementary / Learning | *Táim ag foghlaim na Gaeilge* ☘️ |
+| 🇸🇪 | **Swedish** | Elementary / Learning | *Jag lär mig svenska* 📓 |
