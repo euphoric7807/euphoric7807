@@ -11,8 +11,8 @@
 ### 🧚‍♀️About me 
 ---
 - 👩‍💻 BSc in Computer Science from the University of Vienna 
-- 📚 currently reading Terminal Boredom: Breakfast on Pluto by Patrick McCabe
-- 🔍 currently working on a book app
-- 🎥 last film I watched: Scary Movie 
-- 🎥 last TV series I watched: Criminal Minds Evolution 
+- 📚 currently reading were liars by e.lockhart 
+- 🔍 currently working on a book
+- 🎥 last film I watched: American Psycho
+- 🎥 last TV series I watched: NCIS
 - ☘️ Táim ag foghlaim na Gaeilge.
