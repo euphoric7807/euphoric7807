@@ -15,6 +15,7 @@
 - 🔍 currently working on a book
 - 🎥 last film I watched: American Psycho
 - 🎥 last TV series I watched: NCIS
+- 🎸 last concert I went to: Acres - the Host UK/EU Tour 
 
 ### 🗣️ Languages 
 ---
