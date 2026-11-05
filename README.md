@@ -15,4 +15,5 @@
 - 🔍 currently working on a book
 - 🎥 last film I watched: American Psycho
 - 🎥 last TV series I watched: NCIS
-- ☘️ Táim ag foghlaim na Gaeilge.
+- ☘️ 🇮🇪 Táim ag foghlaim na Gaeilge.
+-  🇸🇪 Jag lär mig svenska.
