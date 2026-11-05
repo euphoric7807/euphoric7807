@@ -15,8 +15,6 @@
 - 🔍 currently working on a book
 - 🎥 last film I watched: American Psycho
 - 🎥 last TV series I watched: NCIS
-- ☘️ Táim ag foghlaim na Gaeilge.
-- 📓 Jag lär mig svenska.
 
 ### 🗣️ Languages 
 ---
@@ -26,5 +24,5 @@
 | 🇪🇬 | **German** | C2 / Mastery | Fluent / Native proficiency |
 | 🇬🇧 | **English** | C1 / Fluent | Daily tech & studies |
 | 🇫🇷 | **French** | B1 / Intermediate | Conversational |
-| 🇮🇪 | **Irish** | Elementary / Learning | *Táim ag foghlaim na Gaeilge* ☘️ |
-| 🇸🇪 | **Swedish** | Elementary / Learning | *Jag lär mig svenska* 📓 |
+| 🇮🇪 | **Irish** | A1 / Learning | *Táim ag foghlaim na Gaeilge* ☘️ |
+| 🇸🇪 | **Swedish** | A1 / Learning | *Jag lär mig svenska*  |
