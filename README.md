@@ -21,8 +21,8 @@
 ---
 | Flag | Language | Level | Note |
 | :---: | :--- | :--- | :--- |
-| 🇩🇪 | **Egyptian Arabic** | Native | First language |
-| 🇪🇬 | **German** | C2 / Mastery | Fluent / Native proficiency |
+| 🇪🇬 | **Egyptian Arabic** | Native | First language |
+| 🇦🇹 | **German** | C2 / Mastery | Fluent / Native proficiency |
 | 🇬🇧 | **English** | C1 / Fluent | Daily tech & studies |
 | 🇫🇷 | **French** | B1 / Intermediate | Conversational |
 | 🇮🇪 | **Irish** | A1 / Learning | *Táim ag foghlaim na Gaeilge* ☘️ |
